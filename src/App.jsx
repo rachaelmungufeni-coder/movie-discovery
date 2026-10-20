@@ -2,7 +2,7 @@ import { useState } from "react";
 import { Routes, Route } from "react-router-dom";
 import { Box, Toolbar } from "@mui/material";
 import Navbar from "./components/Navbar";
-import Sidebar from "./components/SidebarTemp";
+import Sidebar from "./components/Sidebar";
 import Home from "./pages/Home";
 import Movies from "./pages/Movies";
 import TVShows from "./pages/TVShows";
